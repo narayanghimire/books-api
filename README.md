@@ -46,6 +46,15 @@ This repository contains a Laravel project configured to run with DDEV. Follow t
     ```bash
     php artisan migrate
     ```
+### Generating Sample data on the database
+    ```bash
+     ddev  artisan db:seed
+    ```
+or
+    ```bash
+        php artisan db:seed
+    ```
+php art
 ### Running Unit test
 Unit test is added for the CRUD operation interface method
 ```bash
