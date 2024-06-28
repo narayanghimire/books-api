@@ -13,7 +13,7 @@ This repository contains a Laravel project configured to run with DDEV. Follow t
 1. Unzip the project folder:
 
     ```bash
-    unzip books-api.zip
+    git clone https://github.com/narayanghimire/books-api.git
     ```
 
 ### Initialize DDEV
